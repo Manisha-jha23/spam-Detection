@@ -2,7 +2,7 @@
 
 A machine learning project that uses Naive Bayes classifier to detect spam messages from SMS data.
 
-🌐 **Live Demo:** [Visit Website](https://your-website-url.com) | [GitHub Pages](https://YOUR_USERNAME.github.io/spam-detection)
+🌐 **Live Demo:** [Visit Website](https://spam-detection-website.streamlit.app/) | [GitHub Pages](https://Manisha-jha23.github.io/spam-detection)
 
 ## 🚀 Features
 
@@ -74,9 +74,10 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/Manisha_jha23)
 
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
+
 
