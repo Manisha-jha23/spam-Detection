@@ -74,10 +74,11 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/Manisha_jha23)
+- GitHub: [https://github.com/Manisha_jha23](https://github.com/Manisha_jha23)
 
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
+
 
 
